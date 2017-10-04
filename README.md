@@ -2,4 +2,4 @@
 first try on Github
 
 
-hello, I am a geophysicsist from CWP
+hello, I am a geophysicsist 
